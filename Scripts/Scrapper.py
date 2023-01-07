@@ -124,4 +124,6 @@ def Scrapper():
     time.sleep(2)
 
     driver.close()
+    
+    return
 
