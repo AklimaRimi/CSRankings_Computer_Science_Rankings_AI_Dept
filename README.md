@@ -1,5 +1,4 @@
-# Name 
-  Data Analysis on CSRankings: Computer Science Rankings AI Department.
+# Data Analysis on CSRankings: Computer Science Rankings AI Department.
   
 # Goal of this Project
   1. Collecting data from [Website](https://csrankings.org/#/fromyear/2000/toyear/2022/index?ai&vision&mlmining&nlp&inforet&world).
@@ -37,7 +36,7 @@
       pip3 install -r requirements.txt
       ```
       ```
-      cd Scripts
+      cd scripts
       ```
       ```
       python run.py
@@ -64,8 +63,8 @@ In the data transformation a few things were completed..
   5. Dropped 2 Columns.
   
 # Visualization/ Dashboard
-  1. Using '[CSRanking_Universities_Ai_Area.csv](https://github.com/AklimaRimi/CSRankings_Computer_Science_Rankings_AI_Dept/blob/main/Output/CSRanking_Universities_Ai_Area.csv)' Dataset I've created [This Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/VisualizationsonCSRankingsUniversitiesinAIDepartment/Dashboard1)
-  ![](https://github.com/AklimaRimi/CSRankings_Computer_Science_Rankings_AI_Dept/blob/main/Tableau/viz.png)
+  1. Using '[CSRanking_Universities_Ai_Area.csv](https://github.com/AklimaRimi/CSRankings_Computer_Science_Rankings_AI_Dept/blob/main/outputs/CSRanking_Universities_Ai_Area.csv)' Dataset I've created [This Dashboard](https://public.tableau.com/app/profile/aklima.akter.rimi/viz/VisualizationsonCSRankingsUniversitiesinAIDepartment/Dashboard1)
+  ![](https://github.com/AklimaRimi/CSRankings_Computer_Science_Rankings_AI_Dept/blob/main/tableau_dashboard/viz.png)
   
 # Story or Findings
    1. At Westlake University, each faculty published on average 59 papers which is the highest value.
@@ -90,7 +89,7 @@ In the data transformation a few things were completed..
   
   
 # Conclusion
-This entire project is for Data Analysis. It's suitable for beginners. This project can be executed by anyone. If you face any problem feel free to comment. You can `Support` me by giving a `Star`.
+This entire project is for Data Analysis. It's suitable for beginners. This project can be executed by anyone. 
  
  
 
