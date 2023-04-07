@@ -1,3 +1,5 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAklimaRimi%2FCSRankings_Computer_Science_Rankings_AI_Dept&label=Reads&countColor=%23263759)
+
 # Data Analysis on CSRankings: Computer Science Rankings AI Department.
   
 # Goal of this Project
