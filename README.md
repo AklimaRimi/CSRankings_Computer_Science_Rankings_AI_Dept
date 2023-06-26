@@ -1,6 +1,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAklimaRimi%2FCSRankings_Computer_Science_Rankings_AI_Dept&label=Reads&countColor=%23263759)
 
 # Data Analysis on CSRankings: Computer Science Rankings AI Department.
+
+![](https://github.com/AklimaRimi/CSRankings_Computer_Science_Rankings_AI_Dept/blob/main/tableau_dashboard/viz.png)
   
 # Goal of this Project
   1. Collecting data from [Website](https://csrankings.org/#/fromyear/2000/toyear/2022/index?ai&vision&mlmining&nlp&inforet&world).
